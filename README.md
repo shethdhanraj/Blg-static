@@ -1,4 +1,4 @@
-# Artisan Static
+# Blg Static
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://oss.ninja/mit/raniesantos)
 [![donate](https://img.shields.io/badge/$-donate-ff5f5f.svg?style=flat-square)](https://ko-fi.com/raniesantos)
